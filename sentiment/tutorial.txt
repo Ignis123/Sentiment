@@ -1,0 +1,11 @@
+http://www.laurentluce.com/posts/twitter-sentiment-analysis-using-python-and-nltk/
+
+
+
+http://stackoverflow.com/questions/3961581/in-python-how-to-display-current-time-in-readable-format - time formating
+
+
+look into plt.save_fig for matplotlib
+
+save fig as png image
+then just display it
