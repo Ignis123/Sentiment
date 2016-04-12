@@ -1,2 +1,0 @@
-http://stackoverflow.com/questions/27530269/how-can-i-use-tweepy-without-a-filter
-http://stackoverflow.com/questions/26890605/filter-twitter-feeds-only-by-language
